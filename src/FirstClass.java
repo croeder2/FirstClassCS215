@@ -6,6 +6,7 @@ public class FirstClass {
 		
 		system.out.println(num);
 		
+		System.out.println("Whatever");
 	}// end main
 	
 }//end class
